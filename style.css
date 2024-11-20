@@ -1,0 +1,56 @@
+.body-class{
+    margin: 20px;
+    padding: 10px;
+    font-family:Georgia;
+}
+.header{
+   color: brown;
+}
+#header{
+    display: flex;
+}
+
+#name{
+    font-size: 35px;
+}
+#designation{
+    font-size: 25px;
+    color: rgb(94, 71, 71);   
+}
+#contact{
+    background-color: rgba(105, 105, 105, 0.507);    
+}
+#contact_space{
+    height: 30px;
+    margin-left:10px;
+    margin-right: 20px;
+    padding: 3px;
+
+}
+
+.fa-solid{
+    color: rgba(255, 0, 0, 0.644);
+}
+.fa-brands{
+    color: rgba(255, 0, 0, 0.705);
+}
+.work_name{
+    font-size: 20px;
+    font-weight: 1000;
+}
+.work_company{
+    font-size: 17px;
+}
+.duration{
+    color: rgb(105, 105, 105);
+}
+table,th,tr,td{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+.footer{
+    text-align: center;
+}
+
+
+
