@@ -11,6 +11,10 @@
     display: flex;
     justify-content: space-between;
 }
+#address{
+    font-size: 18px;
+    color: gray;
+}
 
 #name{
     font-size: 35px;
